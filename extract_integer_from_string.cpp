@@ -28,3 +28,4 @@ int main(){
         cout<<(char)*it<<" ";
     }
 }
+
